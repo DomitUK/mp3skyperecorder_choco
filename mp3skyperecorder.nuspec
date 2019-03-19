@@ -25,7 +25,7 @@
   <files>
     <file src="tools\chocolateyInstall.ps1" target="tools"/>
     <file src="tools\chocolateyUninstall.ps1" target="tools"/>
-    <file src="..\bin\Release\MP3SkypeRecorderSetup.msi" target="tools" />
+    <file src="..\MP3 Skype recorder\MP3SkypeRecorderSetup\bin\Release\MP3SkypeRecorderSetup.msi" target="tools" />
     <file src="tools\VERIFICATION.txt" target="tools"/>
     <file src="tools\LICENSE.txt" target="tools"/>
   </files>
