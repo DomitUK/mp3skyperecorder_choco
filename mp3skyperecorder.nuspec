@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>mp3skyperecorder</id>
+    <version>4.50.1</version>
+    <owners>Domit LTD</owners>
+    <title>MP3 Skype recorder</title>
+    <authors>Domit LTD</authors>
+    <projectUrl>https://voipcallrecording.com/</projectUrl>
+    <iconUrl>https://voipcallrecording.com/sites/default/files/Mp3_recorder_Icon_64.PNG</iconUrl>
+    <copyright>2019</copyright>
+    <licenseUrl>https://voipcallrecording.com/MP3_Skype_Recorder_TOU</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <docsUrl>https://voipcallrecording.com/Manual</docsUrl>
+    <summary>A tool for recording Skype and Microsoft teams calls</summary>
+    <description>
+    MP3 Skype recorder is automatic tool for Skype and Microsoft teams calls recording. Application automatically creates mp3 files with audio for Skype for desktop, Skype app for Windows 10, Skype for business and Microsoft teams.
+    </description>
+    <tags>mp3 skype  micorsoft teams recorder</tags>
+
+  </metadata>
+  <files>
+    <file src="tools\chocolateyInstall.ps1" target="tools"/>
+    <file src="tools\chocolateyUninstall.ps1" target="tools"/>
+    <file src="..\bin\Release\MP3SkypeRecorderSetup.msi" target="tools" />
+    <file src="tools\VERIFICATION.txt" target="tools"/>
+    <file src="tools\LICENSE.txt" target="tools"/>
+  </files>
+</package>

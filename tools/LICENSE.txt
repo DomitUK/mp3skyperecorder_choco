@@ -1,0 +1,20 @@
+﻿From: https://voipcallrecording.com/license
+
+LICENSE
+
+This is a legal agreement between you, the "END USER", and Domit LTD ("DEVELOPER"). Use of this software (the "SOFTWARE") created by DEVELOPER indicates your acceptance of these terms.
+1. GRANT OF LICENSE. SOFTWARE is provided as FREEWARE for private, NON-COMMERCIAL use only (that means at home). Subject to fair-usage.
+1a. SOFTWARE is free for educational use (schools, universities, museums and libraries) and for use in charity or humanitarian organisations. 
+1b. If you intend to use SOFTWARE at your place of business or for commercial purposes, please purchase it.
+Commercial users: please see www.voipcallrecording.com/commercial_licensing
+2. PROPRIETARY RIGHTS. The SOFTWARE is owned exclusively by DEVELOPER, and this license does not transfer any ownership of the SOFTWARE to you.
+You may not distribute, rent, sub-license or otherwise make available to others the SOFTWARE or documentation or copies thereof, except as expressly permitted in this License without prior written consent from DEVELOPER. In the case of an authorized transfer, the transferee must agree to be bound by the terms and conditions of this License Agreement. 
+3. NON PERMITTED USES. You may not translate, reverse program, disassemble, decompile or otherwise reverse engineer the SOFTWARE.
+4. LAWFUL USE: You must use the SOFTWARE in accordance with the laws of where you are located. In some countries there are restrictions on the download and use of the SOFTWARE. It is your responsibility to ensure that you are legally allowed to use the SOFTWARE where you are located.
+5. NO WARRANTY. THIS SOFTWARE IS LICENSED TO YOU "AS IS," AND WITHOUT ANY  WARRANTY OF ANY KIND, WHETHER ORAL, WRITTEN, EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  DEVELOPER DOES NOT WARRANT THAT THIS SOFTWARE DOES NOT INFRINGE ANY RIGHTS OF THIRD PARTIES.
+6. LIMITATION OF LIABILITY. DEVELOPER grants the license to the SOFTWARE hereunder and the END USER accepts the use hereof on an "AS IS" and "WITH ALL FAULTS" basis.  Furthermore, the END USER understands and agrees that IN NO EVENT WILL DEVELOPER OR ANY OF ITS SUPPLIERS BE LIABLE TO LICENSEE FOR SPECIAL OR CONSEQUENTIAL DAMAGES which might arise out of or in connection with the performance or non-performance of this Agreement or of the SOFTWARE hereunder, even if DEVELOPER has been advised of the possibility of such damages, INCLUDING, BUT NOT LIMITED TO, LOST PROFITS due to errors, inaccuracies, omissions, incompleteness or insufficiency of the SOFTWARE or materials, nor for the usefulness of the SOFTWARE to the END USER.  In no event shall DEVELOPER 'S liability related to any of the SOFTWARE exceed the license fees, if any, actually paid by you for the SOFTWARE.  DEVELOPER shall not be liable for any damages whatsoever arising out of or related to the use of or inability to use the SOFTWARE,  including but not limited to direct, indirect, special, incidental, or consequential damages.
+7. NON-WAIVER. If a portion of this agreement is held unenforceable, the remainder shall be valid. It means that if one section of the Agreement is not lawful, the rest of the Agreement is still in force. A party’s failure to exercise any right under this Agreement will not constitute a waiver of (a) any other terms or conditions of this Agreement, or (b) a right at any time thereafter to require exact and strict compliance with the terms of this Agreement.
+8.  THIRD PARTY COMPONENTS
+NAUDIO library - http://naudio.codeplex.com/
+LAME MP3 Encoder - http://lame.sourceforge.net/
+TagLib# 2.1.0 - https://github.com/mono/taglib-sharp
