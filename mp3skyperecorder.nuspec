@@ -10,8 +10,9 @@
     <authors>Domit LTD</authors>
     <projectUrl>https://voipcallrecording.com/</projectUrl>
     <iconUrl>https://voipcallrecording.com/sites/default/files/Mp3_recorder_Icon_64.PNG</iconUrl>
-    <copyright>2019</copyright>
+    <copyright>Domit 2019</copyright>
     <licenseUrl>https://voipcallrecording.com/MP3_Skype_Recorder_TOU</licenseUrl>
+    <packageSourceUrl>ttps://github.com/DomitUK/mp3skyperecorder_choco</packageSourceUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://voipcallrecording.com/Manual</docsUrl>
     <summary>A tool for recording Skype and Microsoft teams calls</summary>
