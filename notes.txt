@@ -1,0 +1,8 @@
+msiexec /i MP3SkypeRecorderSetup.msi /qn /norestart
+msiexec /x MP3SkypeRecorderSetup.msi /qn /norestart
+choco pack
+choco feature enable --name="'exitOnRebootDetected'"
+choco install mp3skyperecorder --source "'.;https://chocolatey.org/api/v2/'"
+choco uninstall mp3skyperecorder
+choco apikey --key [key goes here] --source https://push.chocolatey.org/
+choco push ./mp3skyperecorder.4.50.1.nupkg --source https://push.chocolatey.org/
