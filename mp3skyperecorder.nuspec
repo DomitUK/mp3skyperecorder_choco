@@ -19,8 +19,10 @@
     <description>
     MP3 Skype recorder is automatic tool for Skype and Microsoft teams calls recording. Application automatically creates mp3 files with audio for Skype for desktop, Skype app for Windows 10, Skype for business and Microsoft teams.
     </description>
-    <tags>mp3 skype  micorsoft teams recorder</tags>
-
+    <tags>mp3 skype  micorsoft teams automatic call recorder</tags>
+    <dependencies>
+      <dependency id="dotnet4.5.2" />
+    </dependencies>
   </metadata>
   <files>
     <file src="tools\chocolateyInstall.ps1" target="tools"/>
